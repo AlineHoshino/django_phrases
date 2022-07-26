@@ -1,0 +1,7 @@
+.note-li{
+    color: red;
+}
+
+.note-li:hover{
+    color: rgb(122, 6, 6)
+}
