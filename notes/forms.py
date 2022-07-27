@@ -16,8 +16,8 @@ class NotesForm(forms.ModelForm):
             'text':'Write your phrase here'
         }
 
-    def clean_title(self): # validando titulo 
-        title = self.cleaned_data['title']
-        if 'dream' not in title:
-            raise ValidationError('We only accept phrases about dream')
-        return title
+    # def clean_title(self): # validando titulo 
+    #     title = self.cleaned_data['title']
+    #     if 'dream' not in title:
+    #         raise ValidationError('We only accept phrases about dream')
+    #     return title
