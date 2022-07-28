@@ -115,7 +115,11 @@ source .venv/bin/activate
 ```
 python3 -m pip install -r requirements.txt
 ```
-4. Run the server
+4. Run migrate
+```
+python3 manage.py migrate
+```
+5. Run the server
 ```
 python3 manage.py runserver
 ```
