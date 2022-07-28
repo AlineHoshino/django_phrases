@@ -69,14 +69,13 @@ I chose to do an app about motivacional phrases because if you are sad. you can 
 | `password`      | `string` | **your password** |
 
 
-## Referência
+## Reference
 
  - [Django Essential Training](https://www.linkedin.com/learning/django-essential-training)
 
 
 
-## Aprendizados
-
+## Learnings
 I learned many things in this project. This project is based on the course Django Essential Training. This course was amazing.
 I learned Django is a fast framework, it is in Python.
 Django bases is MVT - Model-View-Template.
@@ -85,7 +84,7 @@ View- receives request and send a response.
 Template- everything the user can see.
 
 
-## Stack utilizada
+## Stacks
 
 Django and Python
 
