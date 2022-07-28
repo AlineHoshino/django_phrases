@@ -100,7 +100,7 @@ Django and Python
 2. Enter the project directory
 
 ```bash
-  cd django test
+  cd django_test
 ```
 
 3. Create your virtual env
